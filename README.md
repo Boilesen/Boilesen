@@ -26,8 +26,8 @@ Before I worked as an Inovation Specialist with agile methods. Because of that I
 
 ### **You can discover some of my featured projects here:**
 
-- [The Iron-Hacker](https://boilesen.github.io/Project-Ironhacker/) <img src="https://media.giphy.com/media/rMS1sUPhv95f2/giphy.gif" width="60px">
-- [Crypto Observatory](https://cryptoobeservatory.netlify.app/) <img src="https://media.giphy.com/media/RgxAkfVQWwkjS/giphy.gif" width="60px">
+- [The Iron-Hacker](https://boilesen.github.io/Project-Ironhacker/) <img src="https://media.giphy.com/media/rMS1sUPhv95f2/giphy.gif" width="80px">
+- [Crypto Observatory](https://cryptoobeservatory.netlify.app/) <img src="https://media.giphy.com/media/RgxAkfVQWwkjS/giphy.gif" width="50px">
 - [Tinder Pets](https://tinder-pets.netlify.app/) <img src="https://media.giphy.com/media/sNPeJFq6YNEvLZdcqX/giphy.gif" width="60px">
 - Obs: Exemple email: a@a.com Password: Aa@123456
 
