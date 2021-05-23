@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="150px"> &nbsp; I'm Graziele Dantas, nice to meet you! 
+## <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="150px"> &nbsp; I'm Thomas Boilesen, nice to meet you! 
 
 [<img align="left" alt="ThomasBoilesen | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="ThomasBoilesen | Gmail" width="30px" src="./gmail.svg" />][gmail]
