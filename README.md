@@ -14,21 +14,21 @@
 
 Before I worked as an Inovation Specialist with agile methods. Because of that I had enormous contact wiht developers and software engineers. Thus I discovered that I had to make a career change.The pandemic appeared as the best time to reinvent myselfs and that is how I discovered my new vocation in programming and I was able to mix previous abilities with this new talent and now am able  to create complex things on the internet.
 
-<img src="https://media.giphy.com/media/t7sEnf5w7wJ1CEPyy7/giphy.gif" width="40px"> &nbsp;I started my career as an Economist and to this day is one of my passions. It drives my curiosity beyond anything you can imagine.
+<img src="https://media.giphy.com/media/t7sEnf5w7wJ1CEPyy7/giphy.gif" width="60px"> &nbsp;I started my career as an Economist and to this day is one of my passions. It drives my curiosity beyond anything you can imagine.
 
-<img src="https://media.giphy.com/media/zmXtqmGUf8uhW/giphy.gif" width="40px"> &nbsp; Philosofy is my second passion. I love to study and learn new thinqs and how to improve the mental process analyze everything and heuristics, or how to gain more knoledge
+<img src="https://media.giphy.com/media/zmXtqmGUf8uhW/giphy.gif" width="60px"> &nbsp; Philosofy is my second passion. I love to study and learn new thinqs and how to improve the mental process analyze everything and heuristics, or how to gain more knoledge
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40px"> &nbsp; My third discovered passion is programmig. It allowed me to practice and took out of the paper everything I can imagine and bring my other passions to the real world.
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60px"> &nbsp; My third discovered passion is programmig. It allowed me to practice and took out of the paper everything I can imagine and bring my other passions to the real world.
 
-<img src="https://media.giphy.com/media/QXamPN46p4qpYMhf89/giphy.gif" width="30px"> &nbsp; I recently graduated Ironhack's Bootcamp and now I’m currently looking for new opportunities!
+<img src="https://media.giphy.com/media/QXamPN46p4qpYMhf89/giphy.gif" width="60px"> &nbsp; I recently graduated Ironhack's Bootcamp and now I’m currently looking for new opportunities!
 
 
 
 ### **You can discover some of my featured projects here:**
 
-- [The Iron-Hacker](https://boilesen.github.io/Project-Ironhacker/) <img src="https://media.giphy.com/media/rMS1sUPhv95f2/giphy.gif" width="30px">
-- [Crypto Observatory](https://cryptoobeservatory.netlify.app/) <img src="https://media.giphy.com/media/RgxAkfVQWwkjS/giphy.gif" width="30px">
-- [Tinder Pets](https://tinder-pets.netlify.app/) <img src="https://media.giphy.com/media/sNPeJFq6YNEvLZdcqX/giphy.gif" width="40px">
+- [The Iron-Hacker](https://boilesen.github.io/Project-Ironhacker/) <img src="https://media.giphy.com/media/rMS1sUPhv95f2/giphy.gif" width="60px">
+- [Crypto Observatory](https://cryptoobeservatory.netlify.app/) <img src="https://media.giphy.com/media/RgxAkfVQWwkjS/giphy.gif" width="60px">
+- [Tinder Pets](https://tinder-pets.netlify.app/) <img src="https://media.giphy.com/media/sNPeJFq6YNEvLZdcqX/giphy.gif" width="60px">
 - Obs: Exemple email: a@a.com Password: Aa@123456
 
 
