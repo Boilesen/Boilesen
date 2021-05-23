@@ -62,7 +62,7 @@ Before I worked as an Inovation Specialist with agile methods. Because of that I
 ![Bulma](http://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+
 
 
 #### Utilities:
