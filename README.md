@@ -12,19 +12,21 @@
 
 ### **I'm a junior programmer!**
 
-Before I worked as an Inovation Specialist with agile methods. Because of that I had enormous contact wiht developers and software engineers. Thus I discovered that I had to make a career change.The pandemic appeared as the best time to reinvent myselfs and that is how I discovered my new vocation in programming and I was able to mix previous abilities with this new talent and now am able  to create complex things on the internet.
+I have previous experience working with agile methods as an Inovation Specialist, which allowed me to have valuable contact wiht developers and software engineers. 
+Thus when deciding about a career change it was clear to me which was my best option.The pandemic appeared as the best time to reinvent myself and that is how I discovered my new vocation in programming. Taking advantage of my previous abilities along with this new talent  enables me to create new solutions and improve systems through applications.
 
-<img src="https://media.giphy.com/media/t7sEnf5w7wJ1CEPyy7/giphy.gif" width="60px"> &nbsp;I started my career as an Economist and to this day is one of my passions. It drives my curiosity beyond anything you can imagine.
+<img src="https://media.giphy.com/media/t7sEnf5w7wJ1CEPyy7/giphy.gif" width="60px"> &nbsp;I started my career as an Economist and to this day it is one of my passions. It drives my curiosity beyond anything you can imagine.
 
-<img src="https://media.giphy.com/media/zmXtqmGUf8uhW/giphy.gif" width="60px"> &nbsp; Philosofy is my second passion. I love to study and learn new thinqs and how to improve the mental process analyze everything and heuristics, or how to gain more knoledge
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60px"> &nbsp; My third discovered passion is programmig. It allowed me to practice and took out of the paper everything I can imagine and bring my other passions to the real world.
-
-<img src="https://media.giphy.com/media/QXamPN46p4qpYMhf89/giphy.gif" width="60px"> &nbsp; I recently graduated Ironhack's Bootcamp and now I’m currently looking for new opportunities!
+<img src="https://media.giphy.com/media/zmXtqmGUf8uhW/giphy.gif" width="60px"> &nbsp; Philosophy is one more great passion of mine. I love studying and learning new things. Finding out how to improve the mental process analyzing everything by applying heuristics concepts fascinates me. My main goal is continuous learning.
 
 
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60px"> &nbsp; Yet another great passion is programming. It allows me to put into practice all my imagination and bring my other passions to the real world.
 
-### **You can discover some of my featured projects here:**
+<img src="https://media.giphy.com/media/QXamPN46p4qpYMhf89/giphy.gif" width="60px"> &nbsp; I recently graduated at Ironhack's Bootcamp and I’m currently looking for new opportunities!
+
+
+
+### **You can see some of my featured projects here:**
 
 - [The Iron-Hacker](https://boilesen.github.io/Project-Ironhacker/) <img src="https://media.giphy.com/media/rMS1sUPhv95f2/giphy.gif" width="80px">
 - [Crypto Observatory](https://cryptoobeservatory.netlify.app/) <img src="https://media.giphy.com/media/RgxAkfVQWwkjS/giphy.gif" width="50px">
